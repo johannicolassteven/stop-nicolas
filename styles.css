@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.letter-box {
+    margin: 20px;
+    font-size: 2em;
+    padding: 10px;
+    border: 2px solid #000;
+    display: inline-block;
+    min-width: 50px;
+}
+
+.controls {
+    margin: 20px;
+}
+
+.letter-checkbox {
+    display: inline-block;
+    margin: 5px;
+}
+
+.letter-checkbox input {
+    margin-right: 5px;
+}
